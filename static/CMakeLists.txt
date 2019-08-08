@@ -1,0 +1,1 @@
+add_executable(sv sv1.c sv2.c)
